@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "llvmswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/llvm-swift/LLVMSwift.git",
+      "state" : {
+        "revision" : "071246791bd677e869aba4be694ef1e4d789adfb",
+        "version" : "0.8.0"
+      }
+    }
+  ],
+  "version" : 2
+}
